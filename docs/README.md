@@ -64,7 +64,8 @@ OctoAcme follows a structured five-phase project lifecycle designed to balance p
 | [Risk Management & Communication](octoacme-risks-and-communication.md) | Risk register, risk lifecycle, stakeholder communication templates, and escalation paths |
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Release types, pre-release checklist, deployment process, rollback playbook, and release notes template |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective structure, action item tracking, and continuous improvement practices |
-| [Roles & Personas](octoacme-roles-and-personas.md) | Role descriptions and responsibilities for Developers, Product Managers, and Project Managers |
+| [Roles & Personas](octoacme-roles-and-personas.md) | Role descriptions and responsibilities for all delivery roles including Engineering Manager, UX/UI Designer, QA/Test Engineer, DevOps/Platform Engineer, and Security/Compliance Representative |
+| [Role Interaction & Handoff Checklist](octoacme-role-handoff-checklist.md) | Phase-by-phase handoff checklists and role interaction matrix for planning, execution, QA sign-off, release readiness, and incident response |
 
 ---
 
@@ -73,6 +74,7 @@ OctoAcme follows a structured five-phase project lifecycle designed to balance p
 - **Onboarding new team members**: Start with [Project Management Overview](octoacme-project-management-overview.md), then reference role-specific docs and [Roles & Personas](octoacme-roles-and-personas.md)
 - **Starting a new project**: Follow the [Project Initiation Guide](octoacme-project-initiation.md) → [Project Planning](octoacme-project-planning.md) → [Execution & Tracking](octoacme-execution-and-tracking.md)
 - **During execution**: Reference [Execution & Tracking](octoacme-execution-and-tracking.md) and [Risk Management & Communication](octoacme-risks-and-communication.md) for day-to-day guidance
+- **Cross-role coordination**: Use the [Role Interaction & Handoff Checklist](octoacme-role-handoff-checklist.md) to confirm the right people are engaged at each phase and that handoffs are complete
 - **Before release**: Use the [Release & Deployment Guide](octoacme-release-and-deployment.md) checklist
 - **After project or sprint**: Run a retrospective using [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - **Linking to this README**: Reference this docs folder from project charters, onboarding materials, and the main repository README
