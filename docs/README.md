@@ -2,8 +2,6 @@
 
 This README indexes OctoAcme's project management process documents and provides a concise summary of our approach: iterative delivery, clear ownership, data-informed decisions, and a repeatable cadence (daily standups, weekly syncs, sprint demos, and retrospectives). Use these docs as the canonical reference for initiation, planning, execution, release, risk management, and continuous improvement.
 
-Closes #2
-
 ---
 
 ## Project Management Processes Overview
@@ -100,7 +98,7 @@ Structured retrospectives are held after every sprint, release, or milestone. Th
 
 ## Contributing & Updates
 
-To propose updates to any process document, open a GitHub issue using the **[Add Content to Project Management Process Docs](.github/ISSUE_TEMPLATE)** template. Fill in:
+To propose updates to any process document, open a GitHub issue using the **[Add Content to Project Management Process Docs](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml)** template. Fill in:
 
 1. **Which process document** you want to update (or select `<new document>` for a new file).
 2. **Summary of new content** — a brief description of the change.
