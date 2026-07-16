@@ -108,8 +108,8 @@ The matrix below shows which roles are **primary (P)** or **supporting (S)** for
 | Architecture / design decisions | — | — | — | — | P | S | S | S | — | — | S | — | S | — |
 | UX review / design approval | — | S | — | S | — | — | — | S | S | P | — | — | — | S |
 | Sprint planning | — | S | P | S | S | P | S | P | S | S | S | S | — | — |
-| Security / threat review | — | — | S | S | P | — | S | S | — | — | S | — | P | — |
-| PR code review | — | — | — | — | P | S | S | P | S | — | — | — | S | — |
+| Security / threat review | — | — | S | S | S | — | S | S | — | — | S | — | P | — |
+| PR code review | — | — | — | — | S | S | S | P | S | — | — | — | S | — |
 | QA / acceptance sign-off | — | P | S | S | — | S | — | S | P | S | — | — | — | S |
 | Release go/no-go | S | S | P | S | S | S | S | — | P | — | S | P | S | — |
 | Deployment execution | — | — | S | — | — | S | S | — | S | — | P | P | — | — |
